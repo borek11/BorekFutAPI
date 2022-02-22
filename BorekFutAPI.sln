@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B0BB9714-6C37-470A-A209-9C0DE6D53770}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{19A7886E-2DAD-4360-A157-B65ACD37C4CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{B89DFA00-AE91-47DE-96D7-8DE30AB0F1BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{27B4FCD5-DDBA-4102-B97B-2BEAB6CEF900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B89DFA00-AE91-47DE-96D7-8DE30AB0F1BB} = {B0BB9714-6C37-470A-A209-9C0DE6D53770}
+		{27B4FCD5-DDBA-4102-B97B-2BEAB6CEF900} = {B0BB9714-6C37-470A-A209-9C0DE6D53770}
+	EndGlobalSection
+EndGlobal
